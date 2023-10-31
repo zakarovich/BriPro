@@ -1,6 +1,6 @@
 ﻿# # Spline and React Web App
 
-![zr](https://github.com/zakarovich/BriPro/assets/149341613/44e155b6-e265-43ed-b79a-6f92978d4df3)
+![zr](https://github.com/zakarovich/BriPro/assets/149341613/fa0b1abf-464e-4482-969f-355362538607)
 
 This web application combines the creativity of Spline with the flexibility of React to provide a unique experience. The app features a QR code scanner, supplier assessment, pricing options, and operates as a Progressive Web App (PWA) for offline functionality.
 
